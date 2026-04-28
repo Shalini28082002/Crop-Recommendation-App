@@ -1,3 +1,4 @@
+This is my SIH hackathon project.
 <<<<<<< HEAD
 # AgriAI - Smart Farming Dashboard
 
